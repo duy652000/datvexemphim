@@ -88,7 +88,7 @@
 										YES: <input type="radio" name="" value="1">
 										NO: <input type="radio" checked name="" value="0">
 									</div>
-									<input type="submit" name="" value="Thêm" class="btn btn-primary">
+									<input type="submit" name="" value="Sửa" class="btn btn-primary">
 									<a href="#" class="btn btn-danger">Hủy bỏ</a>
 								</div>
 							</div>

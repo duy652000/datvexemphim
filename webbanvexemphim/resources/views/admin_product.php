@@ -24,7 +24,7 @@
 					<div class="panel-body">
 						<div class="bootstrap-table">
 							<div class="table-responsive">
-								<a href="addproduct.html" class="btn btn-primary">Thêm Phim</a>
+								<a href="/addproduct" class="btn btn-primary">Thêm Phim</a>
 								<table class="table table-bordered" style="margin-top:20px;">				
 									<thead>
 										<tr class="bg-primary">
